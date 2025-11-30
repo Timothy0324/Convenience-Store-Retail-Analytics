@@ -47,6 +47,8 @@ A fully normalized **3NF schema** was designed with the following tables:
 - StoreMaster  
 - Order  
 - SalesItem (composite PK: SalesOrderID + ProductNo)
+<img width="737" height="791" alt="image" src="https://github.com/user-attachments/assets/0089bea6-df79-4db2-a320-5f35ea7a0127" />
+
 
 ### **C. Physical Database (MySQL)**
 Created using:
