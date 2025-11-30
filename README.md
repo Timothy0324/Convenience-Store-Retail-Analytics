@@ -3,6 +3,7 @@ Convenience Store Retail Analytics — From 3NF Database Design to Business Insi
 
 ## Executive Summary
 This project rebuilds a messy retail dataset into a fully normalized **3NF relational database** and performs SQL-based analytics to answer business-critical questions for a convenience store chain operating in the **North region**.  
+
 The workflow covers the full data lifecycle: **data cleaning → ERD design → MySQL physical schema → ETL → SQL analytics → business recommendations**.  
 
 The final database supports robust analytics, enabling insights into product performance, store productivity, and revenue optimization.
