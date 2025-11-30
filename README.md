@@ -75,7 +75,6 @@ Conducted using:
 - **Logical to Physical Schema Conversion**  
 - **Business Analytics & Insight Development**  
 - **Data Documentation**  
-- **GitHub Portfolio Development**
 
 ---
 
