@@ -102,8 +102,8 @@ Conducted using:
 ### ⭐ 1. Top 3 Products to ALWAYS Keep in Stock
 Based on total units sold in the North region:
 - **MIDWEST FASTENER**  
-- **NEWPORT / MARLBORO cigarettes**  
-- **HERSHEY / KIT KAT candy products**
+- **01820025008**  
+- **NEWPORT 100’S**
 
 **Recommendation:**  
 Increase safety stock and review supply chain replenishment frequency to avoid out-of-stock situations.
