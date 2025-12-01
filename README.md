@@ -14,8 +14,6 @@ The final database supports robust analytics, enabling insights into product per
 This project is fully reproducible using MySQL.  
 Follow the steps below to recreate the database and execute all analytical queries.
 
----
-
 ### **1. Load the Full Database (Tables + Cleaned Data)**
 
 Run the full MySQL dump file to automatically create all tables and insert all cleaned records:  
