@@ -107,6 +107,8 @@ Based on total units sold in the North region:
 
 **Recommendation:**  
 Increase safety stock and review supply chain replenishment frequency to avoid out-of-stock situations.
+<img width="474" height="650" alt="image" src="https://github.com/user-attachments/assets/1960cb9c-6658-4535-b506-c839dc85038e" />
+
 
 ---
 
@@ -118,18 +120,23 @@ Products with negative or minimal sales (often voids / returns):
 
 **Recommendation:**  
 Reduce shelf space and potentially discontinue these SKUs to improve inventory efficiency.
+<img width="410" height="569" alt="image" src="https://github.com/user-attachments/assets/544570e8-e78d-4545-8968-145f171da3df" />
+
 
 ---
 
 ### ⭐ 3. Underperforming Stores (Lowest Total Sales)
 Lowest-performing stores in the North region:
 - **Store 978054**  
-- **Store 978053**  
-- **Store 978057**
+- **Store 978055**  
+- **Store 978060**
 
 **Recommendation:**  
 Audit store layout, marketing tactics, staffing levels, and local competition.  
 Consider promotions or assortment adjustments.
+<img width="362" height="452" alt="image" src="https://github.com/user-attachments/assets/b825682c-0d0d-4130-bc6d-f491ef7f867b" />
+
+
 
 ---
 
@@ -137,10 +144,12 @@ Consider promotions or assortment adjustments.
 Top revenue categories:
 - **OTHER CARDS**  
 - **BRAND (general merchandise)**  
-- **OTC Medications (Allergy, Sinus, Cold/Flu)**  
+- **Allergy, Tabs & Caps**  
 
 **Recommendation:**  
 Expand shelf space for these high-demand groups and prioritize promotional placement.
+<img width="563" height="634" alt="image" src="https://github.com/user-attachments/assets/a7e0eec0-2341-4f95-a313-fb7ddf4a9987" />
+
 
 ---
 
@@ -148,10 +157,12 @@ Expand shelf space for these high-demand groups and prioritize promotional place
 Lowest transaction counts:
 - **Store 978034**  
 - **Store 978053**  
-- **Store 978057**
+- **Store 978064**
 
 **Recommendation:**  
 Investigate foot traffic patterns, hours of operation, and neighborhood demographics.
+<img width="567" height="644" alt="image" src="https://github.com/user-attachments/assets/ecb5c8c7-a254-4248-8b17-27bee8f4ad5d" />
+
 
 ---
 
