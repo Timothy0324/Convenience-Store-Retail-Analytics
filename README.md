@@ -19,7 +19,11 @@ Follow the steps below to recreate the database and execute all analytical queri
 ### **1. Load the Full Database (Tables + Cleaned Data)**
 
 Run the full MySQL dump file to automatically create all tables and insert all cleaned records:
-👉 [04_full_database_dump.sql]([04_full_database_dump.sql](https://github.com/Timothy0324/Convenience-Store-Retail-Analytics/blob/main/sp_convenience_store_analysis/04_full_database_dump.sql))
+👉 [04_full_database_dump.sql](https://github.com/Timothy0324/Convenience-Store-Retail-Analytics/blob/main/sp_convenience_store_analysis/04_full_database_dump.sql)
+
+### **2. Data Analytics SQL Queries**
+All queries used in this project are available here:  
+👉 [03_data_analytics_queries.sql](https://github.com/Timothy0324/Convenience-Store-Retail-Analytics/blob/main/sp_convenience_store_analysis/03_data_analytics_queries.sql)
 
 ---
 
