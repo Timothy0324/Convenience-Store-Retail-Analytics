@@ -24,7 +24,7 @@ All queries used in this project are available here:
 👉 [03_data_analytics_queries.sql](https://github.com/Timothy0324/Convenience-Store-Retail-Analytics/blob/main/sp_convenience_store_analysis/03_data_analytics_queries.sql)
 
 ### Raw Dataset
-The original uncleaned dataset is provided for reference:
+The original uncleaned dataset is provided for reference:  
 👉 [Raw Dataset](https://github.com/Timothy0324/Convenience-Store-Retail-Analytics/blob/main/Dataset/original_raw_dataset.xlsx)
 
 ---
