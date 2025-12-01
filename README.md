@@ -10,6 +10,21 @@ The final database supports robust analytics, enabling insights into product per
 
 ---
 
+## How to Run This Project
+This project is fully reproducible using MySQL.  
+Follow the steps below to recreate the database and execute all analytical queries.
+
+---
+
+### **1. Load the Full Database (Tables + Cleaned Data)**
+
+Run the full MySQL dump file to automatically create all tables and insert all cleaned records:
+
+```sql
+SOURCE 04_full_database_dump.sql;
+
+---
+
 ## Business Problem
 The original raw dataset contained inconsistencies such as:
 - Missing or invalid category codes (e.g., `"Z"`, `"RX"`),
